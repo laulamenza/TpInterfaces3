@@ -1,0 +1,15 @@
+.canvas {
+    border: 3px black solid;
+}
+
+.barraColor{
+    display: none;
+}
+
+.selectFiltro{
+    display: none;
+}
+
+.file{
+    display: none;
+}
